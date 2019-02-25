@@ -1,0 +1,8 @@
+.Country {
+    cursor: pointer;
+}
+
+.Country:hover {
+    background: green;
+}
+
